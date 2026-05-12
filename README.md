@@ -32,6 +32,9 @@ The project helps students summarize notes, generate quizzes, interact with an A
 
 ---
 
+<img width="894" height="479" alt="image" src="https://github.com/user-attachments/assets/8e3b72ef-44f1-404b-a9d0-087407f40e42" />
+
+
 # Project Structure 📁
 
 ```text
@@ -44,9 +47,6 @@ NeuroNest-AI
 ├── quiz.js
 ├── chatbot.js
 └── assets
-
-<img width="899" height="475" alt="image" src="https://github.com/user-attachments/assets/4467b455-f1f6-40f1-9866-9552248932bb" />
-
 
 
 # How to Run ▶️
