@@ -1,0 +1,158 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
+  <title>NeuroNest AI</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect"
+    href="https://fonts.googleapis.com">
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Sidebar -->
+
+  <div class="sidebar">
+
+    <h2>NeuroNest AI</h2>
+
+    <ul>
+
+      <li>🏠 Dashboard</li>
+      <li>📝 Notes Summary</li>
+      <li>❓ Quiz Generator</li>
+      <li>🤖 AI Chatbot</li>
+      <li>📄 PDF Upload</li>
+
+    </ul>
+
+  </div>
+
+  <!-- Main -->
+
+  <div class="main">
+
+    <!-- Topbar -->
+
+    <div class="topbar">
+
+      <h1>AI Study Assistant</h1>
+
+      <button id="darkBtn">
+        Toggle Theme
+      </button>
+
+    </div>
+
+    <!-- Notes Summarizer -->
+
+    <div class="card">
+
+      <h2>Notes Summarizer</h2>
+
+      <textarea id="notesInput"
+        placeholder="Paste your notes here..."></textarea>
+
+      <button onclick="summarizeNotes()">
+        Generate Summary
+      </button>
+
+      <p id="wordCount"></p>
+
+      <div id="summaryOutput"></div>
+
+    </div>
+
+    <!-- Quiz Generator -->
+
+    <div class="card">
+
+      <h2>Quiz Generator</h2>
+
+      <button onclick="generateQuiz()">
+        Generate Quiz
+      </button>
+
+      <div id="quizOutput"></div>
+
+    </div>
+
+    <!-- Chatbot -->
+
+    <div class="card">
+
+      <h2>AI Chatbot</h2>
+
+      <div class="chatbox" id="chatbox">
+
+        <div class="bot">
+          Hello 👋 I am NeuroNest AI
+        </div>
+
+      </div>
+
+      <div class="chatInput">
+
+        <input type="text"
+          id="userInput"
+          placeholder="Ask anything...">
+
+        <button onclick="sendMessage()">
+          Send
+        </button>
+
+        <button onclick="startVoice()">
+          🎤
+        </button>
+
+      </div>
+
+    </div>
+
+    <!-- PDF Upload -->
+
+    <div class="card">
+
+      <h2>PDF Upload</h2>
+
+      <input type="file" id="pdfFile">
+
+      <button onclick="uploadPDF()">
+        Upload PDF
+      </button>
+
+      <p id="uploadStatus"></p>
+
+    </div>
+
+  </div>
+
+  <!-- Loader -->
+
+  <div id="loader">
+
+    <div class="spinner"></div>
+
+  </div>
+
+  <script src="script.js"></script>
+  <script src="summary.js"></script>
+  <script src="quiz.js"></script>
+  <script src="chatbot.js"></script>
+
+</body>
+
+</html>
