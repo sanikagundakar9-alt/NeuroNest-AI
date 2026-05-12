@@ -32,7 +32,7 @@ The project helps students summarize notes, generate quizzes, interact with an A
 
 ---
 
-<img width="894" height="479" alt="image" src="https://github.com/user-attachments/assets/8e3b72ef-44f1-404b-a9d0-087407f40e42" />
+
 <img width="1859" height="849" alt="image" src="https://github.com/user-attachments/assets/d15efb98-ac22-40d2-bef1-57b44a115da6" />
 <img width="1866" height="832" alt="image" src="https://github.com/user-attachments/assets/52f01ade-ad71-431f-9e10-c806f525a6e8" />
 <img width="1876" height="535" alt="image" src="https://github.com/user-attachments/assets/e08edcd5-348e-4a3e-bf93-cf85d2bcd241" />
