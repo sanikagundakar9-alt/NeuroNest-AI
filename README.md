@@ -45,7 +45,7 @@ NeuroNest-AI
 ├── chatbot.js
 └── assets
 
-<img width="1879" height="833" alt="image" src="https://github.com/user-attachments/assets/b2b90d76-d56a-45e8-ba47-12cec86cfdfc" />
+<img width="1579" height="633" alt="image" src="https://github.com/user-attachments/assets/b2b90d76-d56a-45e8-ba47-12cec86cfdfc" />
 
 
 
