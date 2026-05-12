@@ -46,8 +46,11 @@ NeuroNest-AI
 └── assets
 
 <img width="1884" height="812" alt="image" src="https://github.com/user-attachments/assets/aab1a418-1745-4b47-ada6-7a5821959aa2" />
+
 <img width="1866" height="567" alt="image" src="https://github.com/user-attachments/assets/e7d928b0-89e1-4e4c-a7a2-0fd0063bde58" />
+
 <img width="1863" height="614" alt="image" src="https://github.com/user-attachments/assets/f57ac74d-1587-4b14-9934-8e719e6d2243" />
+
 <img width="1883" height="878" alt="image" src="https://github.com/user-attachments/assets/eecf36ec-e7fd-4fef-ab02-06c762050072" />
 
 
