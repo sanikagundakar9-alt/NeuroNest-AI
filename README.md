@@ -73,9 +73,8 @@ index.html
 
 ```text
 Open with Live Server
-```
 
----
+
 
 # Functionalities 🧠
 
@@ -97,7 +96,7 @@ Upload study material files.
 ## Dark Mode
 Switch between dark and light themes.
 
----
+
 
 # Future Improvements 🔥
 
@@ -110,14 +109,11 @@ Switch between dark and light themes.
 - Cloud Storage
 - Mobile App Version
 
----
+
 
 # Author 👩‍💻
 
 Sanika Gundakar
 
----
 
-# License 📄
 
-This project is created for educational and academic purposes.
